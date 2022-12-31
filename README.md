@@ -26,4 +26,6 @@ A script designed to help identify vulnerabilities and misconfigurations on a Li
 ```bash
 chmod +x lpe-scan.sh
 ./lpe-scan.sh
+# To Save results as txt file 
+./lpe-scan.sh > scan-results.txt
 ```
